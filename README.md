@@ -1,5 +1,5 @@
 
-<img align="right" height="400" src="https://github.com/AnnieJuraski/AnnieJuraski/assets/122943792/e7495280-c4b7-4585-96f9-530ad1febc48">
+<img align="right" height="500" src="https://github.com/AnnieJuraski/AnnieJuraski/assets/122943792/e7495280-c4b7-4585-96f9-530ad1febc48">
 
 
 
