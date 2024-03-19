@@ -37,7 +37,8 @@ I'm a .NET and Front-End Developer with a passion for visual design and game dev
   <h2> My Skills </h2>
     <h3> Languages</h3>  
     <div>     
-      <img align="center" height="50" alt="csharp icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">       
+      <img align="center" height="50" alt="csharp icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
+     <img align="center" height="60" alt="csharp icon"  src="https://raw.githubusercontent.com/AnnieJuraski/devicon/master/icons/python/python-original.svg">   &nbsp; 
       <img align="center" height="50" alt="js icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;      
       <img align="center" height="50" alt="html icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
       <img align="center" height="50"  alt="css icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  &nbsp;
