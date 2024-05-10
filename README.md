@@ -58,7 +58,7 @@ I'm a .NET and Front-End Developer with a passion for visual design and game dev
   <h2> Contact Me </h2>
 
   [![Static Badge](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=%23cc00ff)](https://www.linkedin.com/in/annie-alves/)
-  [![Static Badge](https://img.shields.io/badge/-G--MAIL-000?style=for-the-badge&logo=Gmail&logoColor=%23cc00ff)](mailto:annie.a.alves@gmal.com)
+  [![Static Badge](https://img.shields.io/badge/-G--MAIL-000?style=for-the-badge&logo=Gmail&logoColor=%23cc00ff)](mailto:anniejuraski@gmal.com)
 
 
 <br>
