@@ -9,7 +9,7 @@
 <br>
 
  - <strong>Pronoums: </strong> She/Her <br>
- - <strong>Age: </strong> 30 <br>
+ - <strong>Age: </strong> 31 <br>
  - <strong>Location: </strong> São Paulo - Brazil
 <br>
 <br>
