@@ -4,11 +4,11 @@
 
 ### <h1> Hello, There! 🖖🏼</h1>
 <br>
-<b>I'm Annie (She/Her)</b> - Full-Stack Developer and UI/UX designer. I recently graduated in Systems Analysis and Development and have experience in QA and DevOps.
+<b>I'm Annie (She/Her)</b> - Full-Stack Developer and UI/UX designer. I recently graduated in Systems Analysis and Development. I also have experience in QA automation, DevOps and Game Development.
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,nodejs,react,js,html,css,linux,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,python,docker,js,html,css,nodejs,react,linux,unity)](https://skillicons.dev)
 
 
 <h3> Contact Me </h3>
